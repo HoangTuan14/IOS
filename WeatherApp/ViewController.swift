@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     var arrRes = [[String : Any]]()
     
     /*http://openweathermap.org/img/w/09d.png */ /*https://api.openweathermap.org/data/2.5/weather?q=Haiphong&units=metric&appid=83bcc717e4a76c07879e4df5c375cd23&fbclid=IwAR2Y1edr-c0z6_21oalLMprJGX5NbAkrvE9iUkihftLQzbzQNRroH4vGtRU */
+    //ABC
     override func viewDidLoad() {
         super.viewDidLoad()
         setupView()
